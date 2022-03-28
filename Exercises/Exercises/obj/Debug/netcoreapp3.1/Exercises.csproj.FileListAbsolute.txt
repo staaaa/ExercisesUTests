@@ -1,0 +1,13 @@
+/Users/stachu/Documents/GitHub/ExercisesUTests/Exercises/Exercises/bin/Debug/netcoreapp3.1/Exercises.deps.json
+/Users/stachu/Documents/GitHub/ExercisesUTests/Exercises/Exercises/bin/Debug/netcoreapp3.1/Exercises.runtimeconfig.json
+/Users/stachu/Documents/GitHub/ExercisesUTests/Exercises/Exercises/bin/Debug/netcoreapp3.1/Exercises.runtimeconfig.dev.json
+/Users/stachu/Documents/GitHub/ExercisesUTests/Exercises/Exercises/bin/Debug/netcoreapp3.1/Exercises.dll
+/Users/stachu/Documents/GitHub/ExercisesUTests/Exercises/Exercises/bin/Debug/netcoreapp3.1/Exercises.pdb
+/Users/stachu/Documents/GitHub/ExercisesUTests/Exercises/Exercises/obj/Debug/netcoreapp3.1/Exercises.csproj.AssemblyReference.cache
+/Users/stachu/Documents/GitHub/ExercisesUTests/Exercises/Exercises/obj/Debug/netcoreapp3.1/Exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stachu/Documents/GitHub/ExercisesUTests/Exercises/Exercises/obj/Debug/netcoreapp3.1/Exercises.AssemblyInfoInputs.cache
+/Users/stachu/Documents/GitHub/ExercisesUTests/Exercises/Exercises/obj/Debug/netcoreapp3.1/Exercises.AssemblyInfo.cs
+/Users/stachu/Documents/GitHub/ExercisesUTests/Exercises/Exercises/obj/Debug/netcoreapp3.1/Exercises.csproj.CoreCompileInputs.cache
+/Users/stachu/Documents/GitHub/ExercisesUTests/Exercises/Exercises/obj/Debug/netcoreapp3.1/Exercises.dll
+/Users/stachu/Documents/GitHub/ExercisesUTests/Exercises/Exercises/obj/Debug/netcoreapp3.1/Exercises.pdb
+/Users/stachu/Documents/GitHub/ExercisesUTests/Exercises/Exercises/obj/Debug/netcoreapp3.1/Exercises.genruntimeconfig.cache
